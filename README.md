@@ -2,7 +2,7 @@
 
 A modern, responsive, and accessible product dashboard built using **React**, **Redux Toolkit**, **Styled-Components**, and tested with **Jest + React Testing Library**. This application was developed as part of a frontend developer assignment and demonstrates best practices in modern frontend architecture.
 
-🔗 **Live Demo**: [View Deployed App](https://your-deployed-app-url.com)  
+🔗 **Live Demo**: [View Deployed App](https://product-dashboard-5lg2.onrender.com)  
 📁 **Repository**: [GitHub Repo](https://github.com/iamalokkumar/Product-Dashboard.git)
 
 ---
@@ -29,7 +29,7 @@ A modern, responsive, and accessible product dashboard built using **React**, **
 
 ## 🧭 How to Use
 
-1. Open the [Live Demo](https://your-deployed-app-url.com)
+1. Open the [Live Demo](https://product-dashboard-5lg2.onrender.com)
 2. Browse products on the homepage
 3. Use the search bar to find products
 4. Filter by category or sort by price
