@@ -81,5 +81,3 @@ npm start
 # or
 yarn start
 
-2. **Running Tests:**
-npm test
